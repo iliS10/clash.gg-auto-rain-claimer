@@ -8,7 +8,7 @@ YOU NEED TO WAGER SOME SKINS OR MONEY TO NOT GET SUSPECTED OF MAKING SAFE PROFIT
 ## Installation
 Clone the repository:
 ```bash 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/iliS10/clash.gg-bot-rain-claimer.git
 ```
 ```bash 
 cd your-repo
