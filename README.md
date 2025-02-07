@@ -1,7 +1,7 @@
 # BOT CLASH.GG - AUTO RAIN CLAIMER
 
 ## Description
-This Node.js script uses Puppeteer to automate the retrieval of rain on clash.gg to get free wagerable gems. (2-5gems per day = 1$-4$) It launches Chrome in visible mode, copies your profile, and loads a specific extension, then automatically clicks the Join button to collect the rain.
+This Node.js script scraper uses Puppeteer to automate the retrieval of rain on clash.gg to get free wagerable gems. (2-5gems per day = 1$-4$) It launches Chrome in visible mode, copies your profile, and loads a specific extension, then automatically clicks the Join button to collect the rain.
 
 YOU NEED TO WAGER SOME SKINS OR MONEY TO NOT GET SUSPECTED OF MAKING SAFE PROFITS
 
