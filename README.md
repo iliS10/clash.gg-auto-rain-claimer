@@ -11,7 +11,7 @@ Clone the repository:
 git clone https://github.com/iliS10/clash.gg-bot-rain-claimer.git
 ```
 ```bash 
-cd your-repo
+cd clash.gg-bot-rain-claimer
 ```
 
 ## Install dependencies:
@@ -26,11 +26,11 @@ If you have problems with the extension (hCaptcha), download it on your chrome p
 ## Usage
 To start the script, run:
 ```bash 
-node script.js
+node clash-bot.js
 ``` 
 To reset the profile (optional), use:
 ```bash 
-node script.js --reset
+node clash-bot.js --reset
 ```
 
 ## Troubleshooting
